@@ -31,8 +31,8 @@ namespace Tyuiu.TretyakovDV.Sprint2.Task0.V11
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("*ИСХОДНЫЕ ДАННЫЕ:                                                         *");
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* X = 8105                                                                *");
-            Console.WriteLine("* Y = 275                                                                 *");
+            Console.WriteLine("* x = 8105                                                                *");
+            Console.WriteLine("* y = 275                                                                 *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("*РЕЗУЛЬТАТ:                                                               *");
             Console.WriteLine("***************************************************************************");
